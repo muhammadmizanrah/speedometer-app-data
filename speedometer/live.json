@@ -1,8 +1,8 @@
 {
-    "version": 2,
-    "sha256": "55ab6589442a760fa8914fa24496cc35467857293d531d6c534dc0d333749a23",
-    "signature": "ed25519:F5su+AHA8yu1TaofRCuN5gLD5pQvHs7GzFPtyLuAHdiMEC1s+4V9ugk1Tx9lO1tnI2uKiK4nWTU7Hdachy3wBg==",
-    "bytes": 2080,
-    "published_at": "2026-11-02T13:15:26+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/speedometer-app-data@935716d/speedometer/v2.json"
+    "version": 3,
+    "sha256": "9c044638ec249e5649bb6987bc32fad59942387ba096b4805df48c43c2df4b67",
+    "signature": "ed25519:c9xqpBEbb4lHnp5B5+1/YzWu8bMxk4v/YIHKF3z/0m9wnK0Bq4q0vLHIL11oVKQHfpn5WkpDe6Px8bc+T6YqAw==",
+    "bytes": 2049,
+    "published_at": "2026-11-02T13:19:10+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/speedometer-app-data@1571b82/speedometer/v3.json"
 }
